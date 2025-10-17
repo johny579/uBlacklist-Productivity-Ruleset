@@ -1,16 +1,16 @@
 # uBlacklist Productivity Ruleset
-# Version: 1
+# Version: 2
 # Block sites that just waste your time, make you dumber, or even try to brainwash you.
 # No site is considered propaganda for opposing my political opinion but for using moral panic or lies to make one do bad to oneself (like to eat junk food).
 
-# Brain Rot Social Media / ADHD
+# ADHD-inducing Social Media
 *://m.facebook.com/*
 *://www.facebook.com/*
 *://www.instagram.com/*
 *://www.quora.com/*
 *://www.tiktok.com/*
 
-# AI Slop / Search Engine Optimization
+# AI Slop / SEO
 *://blog.certifiedmtp.com/*
 *://enlivenarticles.com/*
 *://woman.bg/*
@@ -32,9 +32,10 @@
 *://vsbattles.fandom.com/*
 *://www.anime-planet.com/*
 *://www.cbr.com/*
+*://www.pcgamer.com/*
 *://yokaiwatch.fandom.com/*
 
-# Propaganda / Junk Food / Vegan
+# Propaganda / Fake News
 *://nutritionsource.hsph.harvard.edu/*
 *://www.health.harvard.edu/*
 *://www.heart.org/*
@@ -42,7 +43,7 @@
 *://www.peta.org/*
 *://www.petaasia.com/*
 
-# SafeSearch-available fetish sites
+# Erotic content on SafeSearch
 *://danbooru.donmai.us/*
 *://gelbooru.com/*
 *://www.zerochan.net/*
