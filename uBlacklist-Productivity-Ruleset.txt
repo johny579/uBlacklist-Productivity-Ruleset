@@ -1,6 +1,6 @@
 # uBlacklist Productivity Ruleset
-# Version: 2
-# Block sites that just waste your time, make you dumber, or even try to brainwash you.
+# Version: 3
+# Do you feel like you’re wasting too much time on your computer? Block sites that drain your focus, dull your thinking, or encourage unhealthy habits to regain control of your productivity.
 
 # ADHD-inducing Social Media
 *://m.facebook.com/*
@@ -40,8 +40,10 @@
 *://*.nestle-cereals.com/*
 *://*.peta.org/*
 *://*.petaasia.com/*
+*://*.pride.com/*
 
 # Erotic content on SafeSearch
-*://danbooru.donmai.us/*
-*://gelbooru.com/*
-*://www.zerochan.net/*
+*://*.danbooru.donmai.us/*
+*://*.gelbooru.com/*
+*://*.pikuco.com/*
+*://*.www.zerochan.net/*
