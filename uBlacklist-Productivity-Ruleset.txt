@@ -1,6 +1,6 @@
 # uBlacklist Productivity Ruleset
 # Version: 3
-# Do you feel like you’re wasting too much time on your computer? Block sites that drain your focus, dull your thinking, or encourage unhealthy habits. Regain control of your productivity.
+# Feel like you're wasting too much time on your computer? Block sites that reduce your attention span or encourage unhealthy habits, to regain control of your productivity.
 
 # ADHD-inducing Social Media
 *://m.facebook.com/*
