@@ -42,8 +42,13 @@
 *://*.petaasia.com/*
 *://*.pride.com/*
 
-# Erotic content on SafeSearch
-*://*.danbooru.donmai.us/*
+# Porn
+*://*.donmai.us/*
 *://*.gelbooru.com/*
+*://*.kemono.cr/*
+*://*.kemono.su/*
 *://*.pikuco.com/*
-*://*.www.zerochan.net/*
+*://*.pornhub.com/*
+*://*.xhamster.com/*
+*://*.xvideos.com/*
+*://*.zerochan.net/*
