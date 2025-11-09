@@ -1,7 +1,6 @@
 # uBlacklist Productivity Ruleset
 # Version: 2
 # Block sites that just waste your time, make you dumber, or even try to brainwash you.
-# No site is considered propaganda for opposing my political opinion but for using moral panic or lies to make one do bad to oneself (like to eat junk food).
 
 # ADHD-inducing Social Media
 *://m.facebook.com/*
@@ -36,12 +35,11 @@
 *://yokaiwatch.fandom.com/*
 
 # Propaganda / Fake News
-*://nutritionsource.hsph.harvard.edu/*
-*://www.health.harvard.edu/*
-*://www.heart.org/*
-*://www.nestle-cereals.com/*
-*://www.peta.org/*
-*://www.petaasia.com/*
+*:/*.heart.org/*
+*://*.harvard.edu/*
+*://*.nestle-cereals.com/*
+*://*.peta.org/*
+*://*.petaasia.com/*
 
 # Erotic content on SafeSearch
 *://danbooru.donmai.us/*
